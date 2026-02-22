@@ -5,8 +5,6 @@ import { resolve } from "path";
 import {
   LIST_TYPE,
   PROCESSING_FILENAME,
-  RECOMMENDED_ALLOWLIST_URLS,
-  RECOMMENDED_BLOCKLIST_URLS,
   USER_DEFINED_ALLOWLIST_URLS,
   USER_DEFINED_BLOCKLIST_URLS,
 } from "./lib/constants.js";
