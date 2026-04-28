@@ -19,5 +19,8 @@
   },
   "engines": {
     "node": "^24"
+  },
+  "overrides": {
+    "data-uri-to-buffer": "^8.0.0"
   }
 }
